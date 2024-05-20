@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.wenyao.swrasp.Main
+Premain-Class: com.wenyao.swrasp.AgentMain
+Can-Retransform-Classes: true
